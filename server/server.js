@@ -17,11 +17,7 @@ const server = new ApolloServer({
 });
 
 
-
-
 //app.use(routes);
-
-
 
 
 const startApolloServer = async (typeDefs, resolvers) => {
