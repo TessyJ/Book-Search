@@ -1,29 +1,32 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 
 ## Description
+
 This program is used to search any book using an apallo server and qraphql.
 
-## Author: 
+## Author:
+
 Theresa Olusoga
 
-# Project Repository
- https://github.com/TessyJ/Book-Search
+## Project Repository
 
+https://github.com/TessyJ/Book-Search
 
-# Heroku URL
+## Heroku URL
+https://book-search-apps-caaa4168253a.herokuapp.com/
 
 
 ## Installation guide
+
 you will need to first need to clone to repo from the link below. then you need to open up the terminal and type npm install for the client folder and then npm run develop form the develop folder.
 
 Once the server starts ruuning, it should automatically open up the browser. If it doesnt then open up you local browser and type http://localhost3000/.
 
 ## References
- https://github.com/jcgom3/Challenge-21-MERN-Book-Search-Engine.git
+
+https://github.com/jcgom3/Challenge-21-MERN-Book-Search-Engine.git
 and class notes
 
 ## Collabortors
- Walsh Vaz, Taina Barreau
 
-
-
+Walsh Vaz and Taina Barreau
